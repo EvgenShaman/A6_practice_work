@@ -1,5 +1,5 @@
 {
-    "name": "evgen",
+    "name": "A6_practice_work",
     "version": "1.0.0",
     "description": "",
     "scripts": {
@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Chigik45/evgen.git"
+        "url": "git+https://github.com/EvgenShaman/A6_practice_work.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Chigik45/evgen/issues"
+        "url": "https://github.com/EvgenShaman/A6_practice_work/issues"
     },
-    "homepage": "https://github.com/Chigik45/evgen#readme",
+    "homepage": "https://github.com/EvgenShaman/A6_practice_work#readme",
     "dependencies": {
         "express": "^4.18.2",
         "axios": ""
